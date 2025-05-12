@@ -15,10 +15,6 @@ A frontend clone of Spotify built using HTML, CSS, and JavaScript.
 - CSS3
 - JavaScript
 
-## Screenshots
-
-![Screenshot](screenshot.png)
-
 ## Installation
 
 1. Clone the repository:
